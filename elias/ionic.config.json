@@ -1,0 +1,7 @@
+{
+  "name": "elias",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
