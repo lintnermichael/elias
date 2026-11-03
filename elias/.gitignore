@@ -22,6 +22,7 @@ log.txt
 /www
 /platforms
 /plugins
+/src/assets/einsatzleiterWiki
 
 # Compiled output
 /dist
@@ -74,3 +75,4 @@ Thumbs.db
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+
